@@ -1,0 +1,111 @@
+body{
+	background: #baccba;
+	font-family: 'Paytone One', sans-serif;
+
+
+background-image:url(https://images.unsplash.com/photo-1541785323565-451f5afe318c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+        background-repeat:no-repeat;
+		background-attachment:fixed;
+		overflow:scroll;
+		background-size: cover;
+		  background-blend-mode:;
+		  /*font-family: 'Permanent Marker', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Fugaz One', cursive;
+font-family: 'Yeseva One', cursive;
+font-family: 'Paytone One', sans-serif;*/
+
+		/*https://www.jagranimages.com/images/12_07_2019-swachta-abhiyan_19394038.jpg*/
+		/*https://images.unsplash.com/photo-1541785323565-451f5afe318c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80*/
+	}
+
+.text{
+	color: #ffffff;
+	font-size: 1.3rem;
+	text-shadow: 3px 2px black;
+    
+}
+.text:hover{
+	color: #ffffff;
+	
+	
+}
+.text-d{
+	color: #ffffff;
+	font-size: 1.6rem;
+	text-shadow: 3px 2px black;
+}
+.text-d:hover{
+	color: #ffffff;
+	}
+.textt{
+	text-shadow: 2px 2px black;
+}
+.btn-out {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+#picsize{
+	height: 300px;
+}
+.jumboimage{
+	background-image: url(https://orissadiary.com/wp-content/uploads/2017/11/modi.jpg);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+
+}
+.textb{
+	color: #ffffff;
+}
+.heading{
+	color: #ffffff;
+	margin-top:7rem;
+}
+.cont3{
+	margin-top: 4rem;
+	margin-bottom: 4rem;
+}
+.cont4{
+	margin-bottom: 4rem;
+	margin-top: 4rem;
+}
+a{
+	 color: #ffffff;
+}
+a:hover{
+	color:#000000;
+}
+#textcolor{
+	color: #ffffff;
+}
+hr { display: block;
+     height: 1px;
+    border: 0; 
+     border-top: 1px solid #ffffff;
+    margin: 1em 0;
+     padding: 0;
+      }
+ #imgh{
+      height: 50px;
+ }   
+ #imgnav{
+ 	height:50px;
+ }
+ #imgnavend{
+ 	height:70px;
+ }
+ .font1{
+ 	font-family: 'Permanent Marker', cursive;
+ }
+ .font2{
+ 	font-family: 'Courgette', cursive;
+ }
+ .font3{
+ 	font-family: 'Fugaz One', cursive;
+ }
+ .font4{
+ 	font-family: 'Yeseva One', cursive;
+ }
+ .font5{
+ 	font-family: 'Paytone One', sans-serif;
+ }
